@@ -3,6 +3,9 @@
  #### Cocoapod : https://cocoapods.org/pods/MDTextField
 
 # What does it look like ?
+<p align="center">
+<img  align="center" src="assets/MDTextFieldLeftViewImage.jpeg">
+</p>
 
 # What does MDTextField do ?
 It allows you too add image of the left side of a UITextField
@@ -16,7 +19,3 @@ Then you can install it with pod install command.
 # How is it used ?
 
 
-
-
-
-<img src=”assets/MDTextFieldLeftViewImage.png">
