@@ -2,7 +2,8 @@
  add Image to the left of your UITextField.
  #### Cocoapod : https://cocoapods.org/pods/MDTextField
 
-# What does it look like ? <br />
+# What does it look like ? 
+<br />
 <p align="center">
 <img  align="left" src="assets/MDTextFieldLeftViewImage.jpeg">
 </p>
