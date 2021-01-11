@@ -3,10 +3,11 @@
  #### Cocoapod : https://cocoapods.org/pods/MDTextField
 
 # What does it look like ? 
-<br />
+
 <p align="center">
 <img  align="left" src="assets/MDTextFieldLeftViewImage.jpeg">
 </p>
+<br />
 
 # What does MDTextField do ?
 It allows you too add image of the left side of a UITextField
