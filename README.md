@@ -4,7 +4,7 @@
 
 # What does it look like ?
 <p align="center">
-<img  align="center" src="assets/MDTextFieldLeftViewImage.jpeg">
+<img  align="left" src="assets/MDTextFieldLeftViewImage.jpeg">
 </p>
 
 # What does MDTextField do ?
