@@ -4,10 +4,9 @@
 
 # What does it look like ? 
 <p>
-<img  align="left" src="assets/MDTextFieldLeftViewImage.jpeg">
+<img  src="assets/MDTextFieldLeftViewImage.jpeg">
 </p>
-<br />
-<br />
+
 # What does MDTextField do ?
 It allows you too add image of the left side of a UITextField
 
