@@ -22,14 +22,9 @@ After install, import pod into your ViewController <br />
 ` ` ` 
 <br />
 At declearation, set  your UITextField to of type MDTextField to be able to access methods in the  class. Use  .addLeftView() method to add image, size, and constraint. ‼️ Don't forget to set TextField constrain by your self. Good luck, and hope this was useful.
-
-` ` `   lazy var countryTextField: MDTextField = { <br />
-let countryTextField = MDTextField()<br />
-countryTextField.addLeftView(image: #imageLiteral(resourceName: "usa"), horizontalAxes: 10, verticalAxes: 10, height: 20, width: 20) <br />
-countryTextField.placeholder = "Amerikkk" <br />
-countryTextField.translatesAutoresizingMaskIntoConstraints = false <br />
-return countryTextField <br />
-} () ` ` `
+<p>
+<img  src="assets/programmaticUse.jpeg">
+</p>
 
 # Modification
 Comming soon.........
