@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "MDTextField"
-  spec.version      = "1.0.0"
+  spec.version      = "2.0.0"
   spec.summary      = "Add image to the UITextField leftview with just one line of code.."
   spec.description  = "MDTextField allows developer to add image to the left side of a UITextField. I find my self writing the code for this in almost every project, and decided to make it a pod to help cut development time."
 
