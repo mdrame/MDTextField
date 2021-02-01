@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		77440CDF25C7A3FB002E46C2 /* leftViewImage_location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77440CDE25C7A3FB002E46C2 /* leftViewImage_location.swift */; };
 		77B3B08925ABA811000143D5 /* MDTextField.h in Headers */ = {isa = PBXBuildFile; fileRef = 77B3B08725ABA811000143D5 /* MDTextField.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		77B3B09125ABA89F000143D5 /* MDTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77B3B09025ABA89F000143D5 /* MDTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		77440CDE25C7A3FB002E46C2 /* leftViewImage_location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leftViewImage_location.swift; sourceTree = "<group>"; };
 		77B3B08425ABA811000143D5 /* MDTextField.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MDTextField.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		77B3B08725ABA811000143D5 /* MDTextField.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MDTextField.h; sourceTree = "<group>"; };
 		77B3B08825ABA811000143D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -50,6 +52,7 @@
 			children = (
 				77B3B08725ABA811000143D5 /* MDTextField.h */,
 				77B3B09025ABA89F000143D5 /* MDTextField.swift */,
+				77440CDE25C7A3FB002E46C2 /* leftViewImage_location.swift */,
 				77B3B08825ABA811000143D5 /* Info.plist */,
 			);
 			path = MDTextField;
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77440CDF25C7A3FB002E46C2 /* leftViewImage_location.swift in Sources */,
 				77B3B09125ABA89F000143D5 /* MDTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
