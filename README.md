@@ -31,9 +31,7 @@ After install, import pod into your ViewController <br />
 * Use  .addLeftView() method to add image,  size etc.  Don't forget to set TextField constrain by your self. 
 * ‼️ For space only, set the image paramater to nil
 * .center is default for horizontal & vertical axes = ( x, y)
-<p>
-<img  src="assets/programmaticUse.jpeg">
-</p>
+
 
 
 
